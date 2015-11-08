@@ -1,5 +1,9 @@
 # JNE Shipping Modul 
 JNE Shipping Module untuk Opencart 2.x
+Created by Bestariweb Studio
+
+http://www.bestariweb.com 
+http://www.bestariwebhost.com
 
 #Cara Install
 1. Upload ke root folder opencart kemudian extract.
@@ -32,3 +36,8 @@ JNE Shipping Module untuk Opencart 2.x
 11. Klik Save (kanan atas Layar)
 
 Semoga bermanfaat
+
+Untuk Domasi ke Paypal, Silahkan melalui Link Berikut
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YD5L5JBBTT4AA
+
+
